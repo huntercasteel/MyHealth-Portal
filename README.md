@@ -6,6 +6,7 @@ To upload the source code:
 5) Click "Go" at the bottom of the page.
 6) Navigate to the CS server associated with your phpMyAdmin server.
 7) Upload all files to the CS server.
+8) Visit login.php on the CS server.
 
 To reset the database:
 1) Select the database you wish to reset.
